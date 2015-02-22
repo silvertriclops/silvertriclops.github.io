@@ -1,0 +1,39 @@
+html{
+  background-color: #ffff00;
+  font-family: sans-serif;
+}
+body{
+  margin: 16px;
+  background-color: #ffffff;
+  border-radius: 8px;
+  padding:4px;
+}
+ul {
+  list-style:none;
+  text-align:left;
+  border:3px solid #aaa;
+  padding: 0px;
+  border-radius: 2px;
+  top: 30px;
+  margin: 0px;
+}
+li {
+  border:1px solid #bbb;
+  font-size: 1.5em;
+}
+.news{
+  border:2px solid black;
+  text-align:center;
+  padding: 4px;
+  font-size: 2em;
+  top: 30px;
+}
+
+div #twitter {
+	width:30%;
+	max-width:500px;
+	float:left;
+	padding:10px;
+}
+
+@media only screen and (min-width: 800px)
