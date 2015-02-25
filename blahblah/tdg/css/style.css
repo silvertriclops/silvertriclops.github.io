@@ -1,0 +1,51 @@
+html{
+  background-color: #ffff00;
+  font-family: sans-serif;
+}
+body{
+  margin: 16px;
+  background-color: #ffffff;
+  border-radius: 8px;
+  padding:4px;
+}
+#twitter {
+	width:30%;
+	max-width:500px;
+	float:left;
+	padding:10px;
+}
+div#news {
+	padding:10px;
+	overflow:hidden;
+}
+div#news div{
+  border:2px solid black;
+  text-align:center;
+  padding: 4px;
+  font-size: 2em;
+  top: 30px;
+}
+div#navigation {
+	width:20%;
+	min-width:205px;
+	max-width:320px;
+	float:right;
+	padding:10px;
+}
+div#navigation ul {
+	float:right;
+	width:100%;
+	list-style:none;
+	text-align:left;
+	border:3px solid #aaa;
+	padding: 0px;
+	border-radius: 2px;
+	top: 30px;
+	margin: 0px;
+}
+div#navigation ul li {
+  border:1px solid #bbb;
+  font-size: 1.5em;
+}
+
+/* @media only screen and (min-width: 800px) */
