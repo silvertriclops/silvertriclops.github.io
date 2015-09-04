@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extensions>
+	<details>
+		<title lang="EN">My zips</title>
+	</details>
+	<plugins>
+		<plugin name="MyPicks" version="1.2.14" minTarget="6.5" maxTarget="*">
+			<title lang="EN">MyPicks</title>
+			<desc lang="EN">Enables users to use, create, edit and organise Internet Radio URLs using the OPML file format.</desc>
+			<creator>Triode</creator>
+			<email>triode1@btinternet.com</email>
+			<url>http://wiki.slimdevices.com/uploads/c/c7/MyPicks-0.6-6.5.zip</url>
+			<sha>D7508345DA1D0EBAC2890CB2E2ACF9458E551A8F</sha>
+		</plugin>
+	</plugins>
+</extensions>
